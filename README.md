@@ -1,2 +1,2 @@
-# OLGKS-Home-App
-Openlogiks Home Website that is currently online.
+# OpenLogiks Home Site
+

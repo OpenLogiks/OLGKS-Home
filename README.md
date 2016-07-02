@@ -1,7 +1,10 @@
-# App-website
+# Basic Logiks Based Bootstrap Website
 
-Basic one page site, a good place to start planning your website.
+This template is Bootstrap based simple website. Based on popular Bootstrap theme, we
+built you a home page, about page and error page.
 
-This template is Bootstrap based single page site theme startbootstrap-freelancer-1.0.3 ready to use.
+Please feel free to add as many as you like pages. No restrictions :-)
 
-Website : http://startbootstrap.com/template-overviews/freelancer/
+Resource Reference : 
++ http://blackrockdigital.github.io/startbootstrap-half-slider/
++ http://blackrockdigital.github.io/startbootstrap-round-about/

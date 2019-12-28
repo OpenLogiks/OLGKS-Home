@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Basic Logiks Based Bootstrap Website
 
 This template is Bootstrap based simple website. Based on popular Bootstrap theme, we
@@ -8,3 +9,7 @@ Please feel free to add as many as you like pages. No restrictions :-)
 Resource Reference : 
 + http://blackrockdigital.github.io/startbootstrap-half-slider/
 + http://blackrockdigital.github.io/startbootstrap-round-about/
+=======
+# OpenLogiks Home Site
+
+>>>>>>> bf3741c786a65e026e030d63ea870a4de128dd38
